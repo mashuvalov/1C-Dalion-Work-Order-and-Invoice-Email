@@ -1,0 +1,20 @@
+# Выгрузка конфигурации и её резервные ZIP-архивы
+/auto-src/
+/auto-src-*.zip
+
+# Локальные базы 1С, резервные копии и сборки конфигурации
+*.1cd
+*.1CD
+*.dt
+*.cf
+*.cfe
+*.1CL
+*.cfl
+/1Cv8Log/
+/1Cv8.cgr
+/.verify-1c-*/
+*.mdmp
+
+# Служебные файлы Windows
+Thumbs.db
+Desktop.ini
